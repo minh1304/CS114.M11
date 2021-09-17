@@ -24,6 +24,7 @@
 
 ## Giới thiệu bản thân
 * **Họ và tên** : Võ Tuấn Minh
+* **MSSV** : 19521858
 * **Khóa** : 2019
 * **Ngành** : Khoa học máy tính
 * **Sở thích** : Học tập, nghe nhạc, đi phượt
